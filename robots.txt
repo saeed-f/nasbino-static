@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /projects
+Disallow: /search
+Disallow: /dashboard
+Disallow: /api
+Host: https://nasbino.com
+Sitemap: https://nasbino.com/sitemap.xml
